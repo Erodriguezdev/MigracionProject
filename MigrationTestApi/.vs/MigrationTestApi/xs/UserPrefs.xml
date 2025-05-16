@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MigrationTestApi/Controllers/TasksController.cs">
+    <Files>
+      <File FileName="MigrationTestApi/Controllers/TasksController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MigrationTestApi" expanded="True">
+            <Node name="MigrationTestApi" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="TasksController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Entity FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MigrationTestApi FirstBuild="True" />
+</Properties>

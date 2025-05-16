@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rgCKyuXnwI8=",
+  "success": true,
+  "projectFilePath": "/Users/ezequielrodriguez/Projects/Migracion/MigrationTestApi/Entity/Entity.csproj",
+  "expectedPackageFiles": [
+    "/Users/ezequielrodriguez/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.1/microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
+    "/Users/ezequielrodriguez/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
